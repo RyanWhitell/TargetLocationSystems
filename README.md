@@ -1,6 +1,4 @@
-# Target Location Systems
-
-### Abstract
+# Abstract
 **Ryan Whitell (Dr. Ronald Lessard)**                                                                                                       
 **_Control of Collaborating Entities: An Introductory Approach to Target Location Systems_**                                               
 **Norwich University Department of Electrical and Computer Engineering**
